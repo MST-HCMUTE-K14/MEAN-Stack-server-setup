@@ -1,0 +1,34 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MST-HCMUTE-K14/MEAN-Stack-server-setup.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "PhongLe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MST-HCMUTE-K14/MEAN-Stack-server-setup/issues"
+  },
+  "homepage": "https://github.com/MST-HCMUTE-K14/MEAN-Stack-server-setup#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "mongoose": "^4.11.10",
+    "session-file-store": "^1.1.2"
+  }
+}
